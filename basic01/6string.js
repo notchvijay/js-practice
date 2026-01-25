@@ -1,19 +1,19 @@
 const name="notch"
 const repoCount=10
 
-// console.log(name+repoCount+"value");
+console.log(name+repoCount+"value");
 
 console.log(`hello my name is ${name} and my repoCount is ${repoCount}`)
 
 const GameName= new String('notch-vijay-hc')
-// console.log(GameName[0])
-// console.log(GameName.__proto__)
-//console.log(GameName.length)
-// console.log(GameName.toUpperCase())
+console.log(GameName[0])
+console.log(GameName.__proto__)
+console.log(GameName.length)
+console.log(GameName.toUpperCase())
 
-// console.log(GameName)
-// console.log(GameName.charAt(3))
-// console.log(GameName.indexOf('c'))
+console.log(GameName)
+console.log(GameName.charAt(3))
+console.log(GameName.indexOf('c'))
 
 const newString=GameName.substring(0,4)
 console.log(newString)
