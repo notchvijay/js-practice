@@ -6,7 +6,7 @@ const myHeros=["kaal","shaktiman","balveer"]
 console.log(myArr[3]);
 console.log(myHeros[0]);
 
-array method 
+//array method 
 myArr.push(6);
 myArr.push(7);
 myArr.pop();
