@@ -26,13 +26,13 @@ for (let i = 0; i < myarray.length; i++) {
 
 // break and continue
 
-// for(i=1;i<=20;i++){
-//     if(i==5){
-//         console.log("detected 5")
-//         break;
-//     }
-//     console.log(`${i}`)
-// }
+for(i=1;i<=20;i++){
+    if(i==5){
+        console.log("detected 5")
+        break;
+    }
+    console.log(`${i}`)
+}
 // for(i=1;i<=20;i++){
 //     if(i==5){
 //         console.log("detected 5")
