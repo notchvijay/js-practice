@@ -16,4 +16,4 @@ let score=9
 do{
     console.log(`score is ${score}`)
     score++
-}while(score<9); 
+}while(score<10); 
