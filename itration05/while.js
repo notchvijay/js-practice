@@ -12,7 +12,7 @@ while(i<myarray.length){
 }
 
 
-let score=11
+let score=9
 do{
     console.log(`score is ${score}`)
     score++
